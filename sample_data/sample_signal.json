@@ -1,0 +1,11 @@
+{
+  "timestamp": 1690000120,
+  "symbol": "EURUSD",
+  "side": "BUY",
+  "volume": 0.01,
+  "price": 1.12480,
+  "modelId": "ensemble-v1",
+  "model_version": "2025-09-19",
+  "features_hash": "sha256:abcd5678",
+  "meta": {"reason": "momentum+news-spike", "confidence": 0.75}
+}

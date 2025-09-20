@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+onnxruntime
+pandas
+numpy
+python-telegram-bot
+transformers
+sentence-transformers
+faiss-cpu
+pytest
+python-dotenv
